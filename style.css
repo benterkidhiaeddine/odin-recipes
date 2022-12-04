@@ -11,7 +11,7 @@ div {
 
 .title {
     text-align: center;
-    background-color: aquamarine;
+    
     font-weight: bold;
 }
 
@@ -42,3 +42,6 @@ body {
     
 }
 
+li {
+    font-family: Georgia, 'Adobe Garamond Pro', Times, serif;
+}
