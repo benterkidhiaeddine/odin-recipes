@@ -38,10 +38,18 @@ div {
 }
 
 body {
-    background-color: #ADE792;
+    background-color: #eaf3e6;
     
 }
 
 li {
     font-family: Georgia, 'Adobe Garamond Pro', Times, serif;
+}
+
+header {
+    margin-bottom: 4rem;
+    padding: 2rem 0;
+    background-color: burlywood;
+    border-bottom: 10px solid beige;
+    color: hsl(300, 50%, 90%);
 }
