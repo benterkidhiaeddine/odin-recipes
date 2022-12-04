@@ -1,4 +1,44 @@
-img {
+ img {
     height : auto ;
     width : 500px;
+    
+    
 }
+
+div {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+
+
+.descr{
+    background-color:#CCD6A6 ;
+    text-align: center;
+}
+
+.facts{
+    background-color : #DAE2B6;
+    text-align: center;
+}
+
+.ingr {
+    background-color: #F4EAD5;
+    text-align: center;
+}
+
+.dire {
+    background-color : #FFFBE9;
+    text-align: center;
+}
+
+body {
+    background-color: #ADE792;
+    
+}
+
